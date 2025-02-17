@@ -19,7 +19,7 @@
             <h1>Pixl.fi - Linkit</h1>
             <p>Olemme listanneet tälle sivulle joitain hyödyllisiä linkkejä Pixl.fi instanssiin ja Pixelfediin liittyen.</p>
 
-            <p>Linkkejä voi ehdottaa <a href="pixl.fi/@yllapito" rel="me">@yllapito</a> tunnuksen kautta Pixelfedissä, <a href="mailto:moi@pixl.fi">moi@pixl.fi</a> sähköpostin kautta, <a href="https://kaartinen.social/@marko">@marko</a> tunnuksen kautta Mastodonissa tai <a href="https://github.com/pixlfi/linkit">GitHubissa</a>.</p>
+            <p>Linkkejä voi ehdottaa <a href="https://pixl.fi/@yllapito" rel="me">@yllapito</a> tunnuksen kautta Pixelfedissä, <a href="mailto:moi@pixl.fi">moi@pixl.fi</a> sähköpostin kautta, <a href="https://kaartinen.social/@marko">@marko</a> tunnuksen kautta Mastodonissa tai <a href="https://github.com/pixlfi/linkit">GitHubissa</a>.</p>
 
             <h2>Pixl.fi</h2>
 
