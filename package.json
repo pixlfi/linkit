@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "npm run development",
+    "development": "tailwindcss -i ./src/css/styles.css -o ./public/css/app.css",
+    "watch": "tailwindcss -i ./src/css/styles.css -o ./public/css/app.css --watch",
+    "prod": "npm run production",
+    "production": "tailwindcss -i ./src/css/styles.css -o ./public/css/app.css --minify"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.6",
+    "@tailwindcss/typography": "^0.5.16",
+    "tailwindcss": "^4.0.6"
+  }
+}
