@@ -24,7 +24,7 @@
             <h2>Pixl.fi</h2>
 
             <ul>
-                <li>Insanssi: <a href="https://pixl.fi">https://pixl.fi</a></li>
+                <li>Instanssi: <a href="https://pixl.fi">https://pixl.fi</a></li>
                 <li>Tila: <a href="https://status.pixl.fi">https://status.pixl.fi</a></li>
                 <li>Lahjoita: <a href="https://ko-fi.com/markokaa">https://ko-fi.com/markokaa</a></li>
             </ul>
